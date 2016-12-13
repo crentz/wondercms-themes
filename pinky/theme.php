@@ -75,7 +75,7 @@
 
 	<div id="foot">
 		
-			<p><?=wCMS::footer()?></p>
+			<p><?=wCMS::footer()?> designed by <a href="https://wondercms.com/forum/memberlist.php?mode=viewprofile&u=847">wdq</a></p>
 		</div>
 	
 
